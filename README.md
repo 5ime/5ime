@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![I Am I's github stats](https://github-readme-stats.vercel.app/api?username=5ime&theme=onedark)](https://github.com/5ime/5ime)
+
+- 📫 How to reach me: 
+
+  * Blog: [I Am I'](https://5ime.cn)
+  * E-mail: me@5ime.cn
+  
+ 
+
 <!--
 **5ime/5ime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
