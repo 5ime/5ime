@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi I Am I 👋
 
-[![I Am I's github stats](https://github-readme-stats.vercel.app/api?username=5ime&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)](https://github.com/5ime/5ime)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=5ime&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true"/>
 
 ### 📫 How to reach me: 
 
