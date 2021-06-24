@@ -6,7 +6,7 @@
 
 - My home page [Index](https://biaobai.name)
 - Read more about my [Blog](https://5ime.cn)
-- Talk with me by [Email](mailto:me@5ime.cn)
+- Talk with me by [Telegram](https://t.me/iami_bot)
  
 
 <!--
