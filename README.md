@@ -4,6 +4,6 @@
 
 ### 📫 How to reach me: 
 
-- My home page [Index](https://biaobai.name)
+- My home page [Index](https://github.com/5ime/Index)
 - Read more about my [Blog](https://5ime.cn)
 - Talk with me by [Telegram](https://t.me/iami_bot)
